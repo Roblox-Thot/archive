@@ -37,6 +37,3 @@
 [submodule "Token-Logger"]
 	path = Token-Logger
 	url = https://github.com/RobloxThot/Token-Logger
-[submodule "RobloxMouseFix"]
-	path = RobloxMouseFix
-	url = https://github.com/RobloxThot/RobloxMouseFix
